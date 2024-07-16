@@ -1,0 +1,36 @@
+Copy from file1.txt
+Department of Computer science and Technology,
+Indian Institute of Engineering, Science and Technology, Shibpur,
+
+Introduction To Computing Lab
+Assignment - 6
+
+1. Write a C function “int stringLength(char src[])” that finds and returns the length of the null terminated
+string src[], that is, the number of characters (excluding the null character) in the parameter src[].
+2. Write a C recursive function to compute GCD of two given numbers. The function prototype is as follows:
+int Compute GCD(int a,int b), here compute the GCD of a and b and return it to calling function.
+3. Write a function that will print the largest word in a line.
+4. Write a function that takes a decimal number and base as argument and returns the equivalent number
+of the given base.
+5. Write a C recursive function to reverse a string. Write the complete C program and display the reversed
+string at the calling function.
+6. Write a C function to reverse every word of a given string. As, for example, if the input string is “C
+Programming Class” output string will be “C gnimmargorP ssalC”.
+7. Declare a structure for storing complex numbers. Write a C program that perform the following operations:
+a) Read two complex numbers (a+ib). b) add of two complex numbers. c) subtract two complex numbers.
+d) multiply two complex numbers.
+8. Declare a structure to store the following information of an employee
+(a) Employee Code
+(b) Employee Name
+(c) Salary
+(d) Department number
+(e) Date of joining (it is itself a structure consisting of day, month and year)
+Write a program that can take above informations about 10 employee and Display informations for those
+employees whose Salary ≥ 10000.
+9. Write a C program to copy one existing file (source file, say file1.txt) into another named file (destination
+file, say file2.txt). In this case take file name as input through command line argument. As for example:
+$./a.out file1.txt file2.txt
+Here the contents of file1.txt have to be copied to file2.txt.
+10. Write a C program that can compare two files specified by the user, return a nonzero value if identical
+otherwise zero. (such as $cmp file1.txt file2.txt; compare the content of file1.txt and file2.txt if identical
+display 1 otherwise 0.)
